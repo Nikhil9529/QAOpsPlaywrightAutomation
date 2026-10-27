@@ -1,0 +1,4 @@
+Total products found: 3
+Product 1: Name - ADIDAS ORIGINAL, Price - 
+Product 2: Name - ZARA COAT 3, Price - 
+Product 3: Name - iphone 13 pro, Price - 
