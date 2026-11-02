@@ -1,5 +1,5 @@
 const { test, expect } = require('@playwright/test');
-const { POManager } = require('../pageobjects/POManager');
+const { POManager } = require('../Pageobjects/POManager');
 const { customtest } = require('../Testdata/test-base');
 const dataset = require('../Testdata/PlaceorderTestData.json');
 
